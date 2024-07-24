@@ -1,0 +1,2 @@
+# fastAGI
+documenting an anomoly 
